@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 pd.set_option("display.max_columns", None)
 # çalıştırabilirsiniz.
 
-df= pd.read_csv("modul01-02/04-python-ile-veri-analizi-gelismis-fonksiyonel-kesifci-veri-analizi/breast_cancer.csv")
+df= pd.read_csv("modul01/modul01-02/04-python-ile-veri-analizi-gelismis-fonksiyonel-kesifci-veri-analizi/breast_cancer.csv")
 df = df.iloc[:,1:-1]
 #print(df.head())
 

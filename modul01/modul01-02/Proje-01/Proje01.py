@@ -95,7 +95,7 @@
 
 import pandas as pd
 
-df = pd.read_csv("modul01-02/Odev-06/persona.csv")
+df = pd.read_csv("persona.csv")
 
 def get_view_of_df(dataframe):
 
