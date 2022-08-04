@@ -27,6 +27,8 @@
 <br>
 
 
+
+
 #  2. Bölüm Özellik Mühendisliği
 - Özellik Mühendisliği Nedir?
 - Aykırı Değer Analizi(Outliers)
@@ -44,3 +46,35 @@
 - Uygulama
 - Bitirme Projesi 1
 - Bitirme Projesi 2
+
+
+
+
+# 3. Bölüm Makine Öğrenmesi
+- Makine Öğrenmesi Nedir?
+- Değişken Türleri
+  - Sayısal Değişkenler
+  - Kategorik Değişken
+  - Bağımsız Değişken
+  - Bağımlı Değişken
+- Öğrenme Türleri
+  - Denetimli Öğrenme
+  - Denetimsiz Öğrenme
+  - Pekiştirmeli Öğrenme
+- Problem Türleri
+- Model Başarısı Değerlendirme Yöntemleri
+- Model Doğrulama Yöntemleri
+  - Sınama Seti Yöntemi
+  - K-Katlı Çapraz Doğrulama 
+- Yanlılık Varyans Değiş Tokuşu
+- Doğrusal Regresyon
+- Lojistik Regresyon
+- Proje 1
+- KNN
+- CART (Classification And Regression Trees)
+- Random Forest
+- Gradient Boosting Machines
+- XGBoost (Extreme Gradient Boosting)
+- LightGBM (Light Gradient Boosting)
+- CatBoost 
+- Dengesiz Veri Setleri
