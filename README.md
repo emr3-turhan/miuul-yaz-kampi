@@ -27,8 +27,6 @@
 <br>
 
 
-
-
 #  2. Bölüm Özellik Mühendisliği
 - Özellik Mühendisliği Nedir?
 - Aykırı Değer Analizi(Outliers)
@@ -46,9 +44,6 @@
 - Uygulama
 - Bitirme Projesi 1
 - Bitirme Projesi 2
-
-
-
 
 # 3. Bölüm Makine Öğrenmesi
 - Makine Öğrenmesi Nedir?
@@ -78,3 +73,10 @@
 - LightGBM (Light Gradient Boosting)
 - CatBoost 
 - Dengesiz Veri Setleri
+- Ev Fiyat Tahmin Modeli Oluşturma
+- Müşteri Terk Tahmin Modeli Oluşturma
+- Denetimsiz Öğrenme
+  - K - Means
+  - Hiyerarşik Kümeleme Analizi
+  - Temel Bileşen Analizi
+- Pipeline
